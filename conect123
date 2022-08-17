@@ -95,6 +95,89 @@
       "channel": "https://api.twitch.tv/kraken/channels/carola"
     }
   },
+  
+  {
+    "stream": {
+      "mature": false,
+      "status": "RERUN: StarCraft 2 - Kane vs. HuK (ZvP) - WCS Season 3 Challenger AM - Match 4",
+      "broadcaster_language": "en",
+      "display_name": "nuvia_ouo",
+      "game": "StarCraft II",
+      "language": "en",
+      "_id": 30220059,
+      "name": "nuvia_ouo",
+      "created_at": "2012-05-02T09:59:20Z",
+      "updated_at": "2016-09-17T06:02:57Z",
+      "delay": null,
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/esl_sc2-profile_image-d6db9488cec97125-300x300.jpeg",
+      "banner": null,
+      "video_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/esl_sc2-channel_offline_image-5a8657f8393c9d85-1920x1080.jpeg",
+      "background": null,
+      "profile_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/esl_sc2-profile_banner-f8295b33d1846e75-480.jpeg",
+      "profile_banner_background_color": "#050506",
+      "partner": true,
+      "url": "https://www.twitch.tv/nuvia_ouo",
+      "views": 60843789,
+      "followers": 135275,
+      "_links": {
+        "self": "https://api.twitch.tv/kraken/channels/nuvia_ouo",
+        "follows": "https://api.twitch.tv/kraken/channels/nuvia_ouo/follows",
+        "commercial": "https://api.twitch.tv/kraken/channels/nuvia_ouo/commercial",
+        "stream_key": "https://api.twitch.tv/kraken/channels/nuvia_ouo/stream_key",
+        "chat": "https://api.twitch.tv/kraken/chat/nuvia_ouo",
+        "subscriptions": "https://api.twitch.tv/kraken/channels/nuvia_ouo/subscriptions",
+        "editors": "https://api.twitch.tv/kraken/channels/nuvia_ouo/editors",
+        "teams": "https://api.twitch.tv/kraken/channels/nuvia_ouo/teams",
+        "videos": "https://api.twitch.tv/kraken/channels/nuvia_ouo/videos"
+      }
+    },
+    "_links": {
+      "self": "https://api.twitch.tv/kraken/streams/nuvia_ouo",
+      "channel": "https://api.twitch.tv/kraken/channels/nuvia_ouo"
+    }
+  },
+  
+  {
+    "stream": {
+      "mature": false,
+      "status": "RERUN: StarCraft 2 - Kane vs. HuK (ZvP) - WCS Season 3 Challenger AM - Match 4",
+      "broadcaster_language": "en",
+      "display_name": "arigameplays",
+      "game": "StarCraft II",
+      "language": "en",
+      "_id": 30220059,
+      "name": "arigameplays",
+      "created_at": "2012-05-02T09:59:20Z",
+      "updated_at": "2016-09-17T06:02:57Z",
+      "delay": null,
+      "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/esl_sc2-profile_image-d6db9488cec97125-300x300.jpeg",
+      "banner": null,
+      "video_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/esl_sc2-channel_offline_image-5a8657f8393c9d85-1920x1080.jpeg",
+      "background": null,
+      "profile_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/esl_sc2-profile_banner-f8295b33d1846e75-480.jpeg",
+      "profile_banner_background_color": "#050506",
+      "partner": true,
+      "url": "https://www.twitch.tv/arigameplays",
+      "views": 60843789,
+      "followers": 135275,
+      "_links": {
+        "self": "https://api.twitch.tv/kraken/channels/arigameplays",
+        "follows": "https://api.twitch.tv/kraken/channels/arigameplays/follows",
+        "commercial": "https://api.twitch.tv/kraken/channels/arigameplays/commercial",
+        "stream_key": "https://api.twitch.tv/kraken/channels/arigameplays/stream_key",
+        "chat": "https://api.twitch.tv/kraken/chat/arigameplays",
+        "subscriptions": "https://api.twitch.tv/kraken/channels/arigameplays/subscriptions",
+        "editors": "https://api.twitch.tv/kraken/channels/arigameplays/editors",
+        "teams": "https://api.twitch.tv/kraken/channels/arigameplays/teams",
+        "videos": "https://api.twitch.tv/kraken/channels/arigameplays/videos"
+      }
+    },
+    "_links": {
+      "self": "https://api.twitch.tv/kraken/streams/arigameplays",
+      "channel": "https://api.twitch.tv/kraken/channels/arigameplays"
+    }
+  },
+  
   {
     "error": "Not Found",
     "status": 404,
